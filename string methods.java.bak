@@ -2,7 +2,7 @@ class Functions
 {
 public static void main(String [] args)
 {
- String name ="arullll";
+ String name =" arullll";
  String firstname = "raj";
  String lastname = " kumar";
  char position = firstname.charAt(2);
